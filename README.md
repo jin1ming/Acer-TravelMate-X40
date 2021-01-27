@@ -17,7 +17,10 @@
   来自：[itlwm](https://github.com/OpenIntelWireless/itlwm)
 
 - 修正了适用于intel网卡的蓝牙模块
+
 - 修正了适应该笔记本的触摸板热补丁
+
+- 为笔记本镁光1100硬盘增加sata驱动
 
 此外，
 
